@@ -1,0 +1,5 @@
+{
+  "name": "Regional Web App",
+  "description": "Uma interface web que você escolhe o município do Brasil ela te fornece 5 ideias de webapps se encaixam na região e te dá o prompt de desenvolvimento para você usar em alguma llm para Pequenas e Médias Empresas (PMEs) acessarem, visualizarem e exportarem dados públicos do governo brasileiro (IBGE), apresentando insights de localização com tecnologia de inteligência artificial.\" ",
+  "requestFramePermissions": []
+}
